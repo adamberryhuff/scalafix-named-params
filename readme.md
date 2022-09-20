@@ -1,3 +1,7 @@
+NOTE: This fork will only apply named parameters to methods that have multiple parameters of the same type.
+
+--- 
+
 # Scalafix rule for Named Parameters
 
 This is a scalafix rule to add named parameters for your constructor and method calls.
